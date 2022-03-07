@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Snake from './Snake/Snake';
+import Snake from './Snake/SnakeGame';
 
 function App() {
   return (
